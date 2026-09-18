@@ -1,5 +1,0 @@
-streamlit
-supabase
-google-genai
-PyMuPDF
-pillow>=11.0
